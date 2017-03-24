@@ -6,7 +6,7 @@ var fs = require('fs');
 var obj;
 
 var materials = [
-	'ADDED_TEXT_111',
+	'ADDED_TEXT_1',
 	'ADDED_TEXT_2',
 	'ADDED_TEXT_3',
 	'ADDED_TEXT_4'

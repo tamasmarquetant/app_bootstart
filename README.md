@@ -1,7 +1,8 @@
 --------------------
-# This is a DEFAULT dev-server environment for quickly start developping ideas
+# a dev-server environment and core app for quick-start prototyping ideas
 --------------------
 --------------------
+-- using babelify, babel-preset-es2015, lite-server, npm-run-all (cross-browser)
 
 1.clone git to desired location and run cli command
 >> npm init -y
