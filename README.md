@@ -21,8 +21,8 @@ BUILD final app -- using BROWSERIFY [es2015 babel preset] and UGLIFY to target>>
 BUILD app for debug -- using BROWSERIFY [es2015 babel preset] to target>>> './static folder'
 >> npm run build_debug
 
-4. run http://127.0.0.1:8081/index.html in the browser
-
+4.If not already running in the browser go to URL
+>> http://127.0.0.1:8001/index.html
 
 
 
